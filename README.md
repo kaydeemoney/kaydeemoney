@@ -23,9 +23,10 @@ I specialize in **full-stack Python development** and have a strong grounding in
 ### 🎓 ALX Software Engineering Certificate
 
 <p align="center">
-  <img src="https://github.com/kaydeemoney/17-short-specializations-certificate-kayode-daramola.png" width="600px" alt="ALX Certificate"/>
+  <img src="https://raw.githubusercontent.com/kaydeemoney/kaydeemoney/main/17-short-specializations-certificate-kayode-daramola.png" width="600px" alt="ALX Certificate"/>
 </p>
 
+---
 
 ### 🧰 Tech Stack
 
