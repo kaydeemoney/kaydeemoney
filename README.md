@@ -6,17 +6,26 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
 I'm **Kayode**, a passionate and battle-tested software engineer with over **5 years of experience** crafting efficient, scalable, and production-ready solutions.  
 I specialize in **full-stack Python development** and have a strong grounding in **data structures, algorithms**, and systems thinking.
 
 🎓 B.Sc. in Computer Science from **FUTA**  
+🎓 **ALX Certified Software Engineer** ✅  
 💡 I love collaborating on high-impact projects, finishing what I start, and constantly learning.  
 📱 Currently venturing into **mobile development** and building smart systems with **AI**.
 
 ---
+
+---
+
+### 🎓 ALX Software Engineering Certificate
+
+<p align="center">
+  <img src="https://github.com/kaydeemoney/17-short-specializations-certificate-kayode-daramola.png" width="600px" alt="ALX Certificate"/>
+</p>
+
 
 ### 🧰 Tech Stack
 
