@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Daramola Kayode Anthony 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">💻 Full-Stack Software Engineer | 🚀 AI/ML Enthusiast | 🛠️ Systems Builder | 📱 Mobile Explorer</h3>
 
 <p align="center">
